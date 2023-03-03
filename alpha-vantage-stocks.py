@@ -1,4 +1,4 @@
-"""alpha_vantage_stocks.py: Uses AlphaVantage API to get the following stock data:
+"""alpha-vantage-stocks.py: Uses AlphaVantage API to get the following stock data:
 
 1. Company name
 2. Headquarter state
